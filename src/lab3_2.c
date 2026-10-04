@@ -1,3 +1,6 @@
+// Haralds Roskošs
+// id = 251RDC034
+
 #include <stdio.h>
 
 void swap(int* x, int* y);

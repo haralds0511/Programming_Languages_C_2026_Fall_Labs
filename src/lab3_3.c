@@ -1,3 +1,7 @@
+
+// Haralds Roskošs
+// id = 251RDC034
+
 #include <stdio.h>
 
 int my_strlen(const char* str);
